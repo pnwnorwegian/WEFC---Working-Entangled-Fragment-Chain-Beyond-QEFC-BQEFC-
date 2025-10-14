@@ -1,48 +1,83 @@
-Working Entangled Fragment Chain (WEFC) Open Innovation Attribution License (OIAL v1.0)
+Nordsletten Quantum Systems Unified License v1.2
+(Applies to QEFC, WEFC, and all affiliated or derivative projects)
 Copyright © 2025 Mark Nordsletten — All Rights Reserved
 
-1. Purpose  
-This license encourages open research and experimentation using the WEFC
-framework while preserving credit to the original author and ensuring that
-derivative improvements are shared with the community.
+1. PURPOSE
+This License governs all software, source code, and related assets published
+under the Nordsletten Quantum Systems organization. It encourages open
+research and innovation while ensuring fair compensation for commercial use.
 
-2. Grant of Rights  
-You may use, copy, modify, and distribute this Software (“Software”) for any
-purpose, including commercial use, provided that you comply with the terms below.
+2. GRANT OF RIGHTS
+You are granted a non-exclusive, worldwide license to use, study, modify, and
+integrate this Software for research, educational, experimental, or development
+purposes (including commercial research), subject to the payment and
+attribution terms below.
 
-3. Attribution  
-All public or commercial uses of the Software must display the following credit
-in documentation, websites, user interfaces, or related materials:
+3. COMMERCIAL USE, FEES, AND ROYALTIES
+   a. Recurring Commercial-Use Fee
+      All commercial users (companies, organizations, or individuals engaged
+      in profit-oriented research or product development) must pay a recurring
+      commercial-use fee, billed monthly or annually, to maintain authorization
+      during pre-revenue or research phases. Fee amount and payment terms are
+      defined in a separate Commercial Use Agreement with the Licensor.
 
-    "Built with the Working Entangled Fragment Chain (WEFC)
-    © 2025 Mark Nordsletten — Used under the OIAL v1.0 License."
+   b. Royalty on Revenue
+      Once any product, service, or deployment using this Software generates
+      revenue, the licensee must pay a 5 % royalty on all gross revenue derived
+      directly or indirectly from the Software. Royalties are calculated
+      quarterly and paid within 30 days after each quarter’s end.
 
-4. Contribution and Derivative Works  
-If you modify or extend this Software, you must:
-  a. Identify your changes in documentation or source headers; and  
-  b. Make the modified source publicly available under the same OIAL v1.0 license
-    within 30 days of distribution or deployment.  
+   c. Attribution
+      All public or commercial uses must display the following visible credit in
+      interfaces, documentation, marketing, and related materials:
 
-5. Ownership and Patents  
-The Licensor retains all copyrights, patents, and moral rights to the original
-Software. Contributors retain ownership of their modifications but agree to license
-them under these same terms. Patent rights granted under this License are
-non-exclusive and royalty-free.
+          "Powered by the Nordsletten Quantum Systems Protocol
+           © 2025 Mark Nordsletten — Used under License."
 
-6. Redistribution  
-You may redistribute this Software or derivatives as long as this license text and
-attribution remain intact and visible.
+      The attribution must remain legible, unaltered, and visible wherever the
+      Software or derivatives appear publicly.
 
-7. Warranty Disclaimer  
-The Software is provided “AS IS,” without warranty of any kind, express or implied,
-including but not limited to merchantability, fitness for a particular purpose, and
-non-infringement.
+4. REDISTRIBUTION AND DERIVATIVE WORKS
+Redistribution or modification is permitted if this license text and attribution
+remain intact. Commercial redistribution or deployment of derivatives is
+subject to the same recurring-fee and 5 %-royalty obligations unless otherwise
+agreed in writing with the Licensor.
 
-8. Limitation of Liability  
-In no event shall the Licensor be liable for any damages arising from the use of the
-Software.
+5. OWNERSHIP AND INTELLECTUAL PROPERTY
+All copyrights, patents, trademarks, and moral rights remain the property of
+Mark Nordsletten. No ownership or title is transferred by this License.
+Contributors agree their submissions remain bound by these same terms.
 
-9. Termination  
-Violation of these terms automatically terminates this license.
+6. REPORTING AND AUDIT RIGHTS
+Commercial users must maintain accurate records of revenues and usage related
+to the Software. The Licensor may request reasonable verification to confirm
+fee and royalty compliance.
 
-Contact: Mark Nordsletten (Insert contact or GitHub email)
+7. WARRANTY DISCLAIMER
+THE SOFTWARE IS PROVIDED “AS IS,” WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO MERCHANTABILITY, FITNESS FOR A PARTICULAR
+PURPOSE, AND NON-INFRINGEMENT.
+
+8. LIMITATION OF LIABILITY
+IN NO EVENT SHALL THE LICENSOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER
+LIABILITY ARISING FROM USE OF THE SOFTWARE.
+
+9. TERMINATION
+Failure to pay fees or royalties, or violation of attribution or usage terms,
+constitutes a material breach and results in immediate termination of this
+License. Continued use after termination is unauthorized and subject to legal
+action.
+
+10. CONTACT
+Licensor: Mark Nordsletten  
+Email: [Insert preferred contact or GitHub email]  
+GitHub: https://github.com/marknordsletten  
+Location: Edgewood, Washington, USA
+
+11. SUMMARY
+• Free for personal, academic, and educational use.  
+• Commercial use (including research) requires a recurring fee.  
+• Revenue-generating use adds a 5 % royalty.  
+• Visible credit to Mark Nordsletten is mandatory.  
+• Ownership and IP remain solely with the Licensor.  
+• Non-payment or violation terminates the License.
